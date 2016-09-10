@@ -48,6 +48,7 @@ td.cat {
 h1 a, #footer a{
   text-decoration: none;
   border:none;
+  color: white;
 }
 
 td a {line-height: 24px;}
@@ -112,7 +113,7 @@ input {
 
 #header {
   width:800px;
-  background-color:#fff;
+  background-color:#303030;
   color:#062946;
   z-index:999999;
   text-align:center;
